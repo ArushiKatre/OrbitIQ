@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # OrbitIQ Client
+=======
+# OrbitIQ
+>>>>>>> bdc4a97e111b2ff9c5b1a11b9a940d06ce9199f7
 
 ## Overview
 OrbitIQ Client is a full-stack web application designed to provide a modular workflow builder and file processing platform. The project is split into a clear **frontend** and **backend** architecture, enabling scalable development and easy maintenance.
@@ -127,6 +131,9 @@ npx prisma migrate dev
 3. Open a pull request for review.
 
 ---
+<<<<<<< HEAD
 
 ## License
 This project is licensed under the MIT License. 
+=======
+>>>>>>> bdc4a97e111b2ff9c5b1a11b9a940d06ce9199f7
